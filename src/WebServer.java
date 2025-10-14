@@ -52,7 +52,7 @@ public class WebServer {
     private static String buildHtmlContent() {
 
         String adSoyad = "Fazl Rahman Sabawoon";
-        String ogrenciNo = "5230505100";
+        String ogrenciNo = "523089898505100";
         String biyografi = "Yazılım Mühendisliği öğrencisiyim. Java ve ağ programlama konularına " +
                 "büyük bir ilgi duyuyorum. Bu proje, socket programlamanın temellerini " +
                 "anlamak için harika bir fırsat oldu. Gelecekte dağıtık sistemler ve " +
